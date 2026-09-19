@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nexpulse Author Skill Sop"
+  short_description: "Author、validate 並 materialize Nexpulse Skill 的 canonical SOP"
+  default_prompt: "使用 $nexpulse-author-skill-sop 處理這項需求。"

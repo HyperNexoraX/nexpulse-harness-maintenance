@@ -1,0 +1,6 @@
+interface:
+  display_name: "Nexpulse Skill Rca"
+  short_description: "回溯 Skill 執行證據與 context，分析根因，與 Human 收斂後協調修正及驗證"
+  default_prompt: "使用 $nexpulse-skill-rca 處理這項需求。"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nexpulse Discovery Engine"
+  short_description: "透過逐題、可追溯且可恢復的多輪 discovery，將不完整的 product、architecture 或 Skill in…"
+  default_prompt: "使用 $nexpulse-discovery-engine 處理這項需求。"

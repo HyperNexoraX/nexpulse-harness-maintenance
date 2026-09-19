@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nexpulse Author Skill Frontmatter"
+  short_description: "建立、編輯、驗證並 materialize Nexpulse Skill 的 canonical frontmatter 與支…"
+  default_prompt: "使用 $nexpulse-author-skill-frontmatter 處理這項需求。"

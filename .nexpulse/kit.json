@@ -1,0 +1,10 @@
+{
+  "hosts": [
+    "claude-code",
+    "codex"
+  ],
+  "installation-id": "nexpulse",
+  "revision": "d4dd4a423bf08a194fe785e390f9cc60494ba5ed",
+  "schema-version": 1,
+  "source": "vendor/nexpulse-harness"
+}

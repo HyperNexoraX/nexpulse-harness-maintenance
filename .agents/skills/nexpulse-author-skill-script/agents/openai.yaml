@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nexpulse Author Skill Script"
+  short_description: "將 Nexpulse Skill SOP／Rules 中可明確規格化的機械工作實作為可重用、可驗證的 scripts，並協調呼…"
+  default_prompt: "使用 $nexpulse-author-skill-script 處理這項需求。"

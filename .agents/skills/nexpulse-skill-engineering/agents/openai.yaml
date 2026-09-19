@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nexpulse Skill Engineering"
+  short_description: "協調 author-skill series 完成 Nexpulse Skill 的整體建立、重構與 polish，並分析及整…"
+  default_prompt: "使用 $nexpulse-skill-engineering 處理這項需求。"

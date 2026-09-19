@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nexpulse Author Skill Purpose"
+  short_description: "建立、修改並核對 Nexpulse Skill 的 canonical Purpose"
+  default_prompt: "使用 $nexpulse-author-skill-purpose 處理這項需求。"

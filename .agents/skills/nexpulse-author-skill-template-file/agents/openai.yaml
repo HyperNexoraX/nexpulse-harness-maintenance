@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nexpulse Author Skill Template File"
+  short_description: "建立、修改並核對 Nexpulse Skill 的 Markdown TemplateFile，管理固定格式與填寫位置"
+  default_prompt: "使用 $nexpulse-author-skill-template-file 處理這項需求。"

@@ -1,0 +1,238 @@
+{
+  "verified-at": "2026-09-19T03:49:13.399287+00:00",
+  "consumer": "E:\\HyperNexoraX\\nexpulse-harness-maintenance",
+  "consumer-head": "ebe2b0973cb861dc51b0c4fa1f4f024793fcb5f5",
+  "source-head": "d4dd4a423bf08a194fe785e390f9cc60494ba5ed",
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "actual-source-merge-pin",
+      "pass": true,
+      "actual": "d4dd4a423bf08a194fe785e390f9cc60494ba5ed"
+    },
+    {
+      "name": "source-clean-detached",
+      "pass": true,
+      "changes": ""
+    },
+    {
+      "name": "handoff-history-retained",
+      "pass": true
+    },
+    {
+      "name": "canonical-unchanged-from-handoff",
+      "pass": true,
+      "changed": []
+    },
+    {
+      "name": "source-exits-self-host-surfaces",
+      "pass": true,
+      "tracked": [],
+      "active": []
+    },
+    {
+      "name": "direct-staged-gitlink",
+      "pass": true,
+      "value": "160000 d4dd4a423bf08a194fe785e390f9cc60494ba5ed 0\tvendor/nexpulse-harness"
+    },
+    {
+      "name": "pinned-config-manifest",
+      "pass": true
+    },
+    {
+      "name": "complete-managed-output-bytes",
+      "pass": true,
+      "count": 30,
+      "skill_count": 10
+    },
+    {
+      "name": "non-kit-original-git-blob",
+      "pass": true,
+      "path": ".agents/skills/i-have-adhd/SKILL.md",
+      "sha256": "938d0e350a0c2b0e2e6c3a9032542e062846d108e0f89dd27c798ba5b436397e"
+    },
+    {
+      "name": "non-kit-original-git-blob",
+      "pass": true,
+      "path": ".agents/skills/i-have-adhd/agents/openai.yaml",
+      "sha256": "2c51291283dcefdca43ca6b0c08172f225c7c26a9783ec444d6bdfa51ca96f8f"
+    },
+    {
+      "name": "non-kit-original-git-blob",
+      "pass": true,
+      "path": ".agents/skills/i-have-adhd/agents/gemini.toml",
+      "sha256": "c35d2c2afd463cfc772bcc98bf45e1c549f1a62529477f9e7e204b1276a40c5c"
+    },
+    {
+      "name": "non-kit-original-git-blob",
+      "pass": true,
+      "path": ".codex/config.toml",
+      "sha256": "0a11c6b06db06f399d88c426cd33367204c65cdc6b2761e3a79463cbd6eeb9a1"
+    },
+    {
+      "name": "local-override-not-published",
+      "pass": true
+    }
+  ],
+  "output-sha256": {
+    ".agents/skills/nexpulse-author-skill-frontmatter/SKILL.md": "949c20ab3a1c39c233eabd73b27fdab87257e052e9b2d3945c2934c1951e46f6",
+    ".agents/skills/nexpulse-author-skill-frontmatter/agents/openai.yaml": "07ea85805efeecb16894c8011668473f3a574ccd0b608c2795be58d8b52cdf45",
+    ".agents/skills/nexpulse-author-skill-purpose/SKILL.md": "e542984f17a49ae0abbf3325828558c6ea6e23e44148e5235c1e2f7ae3d2489a",
+    ".agents/skills/nexpulse-author-skill-purpose/agents/openai.yaml": "84f92f35208d9de1316106ac288677382a8bcb0361fa13b2ae18a57659a793f6",
+    ".agents/skills/nexpulse-author-skill-rules/SKILL.md": "3d660abfbda7265f8ab603e885b17d2024117d72998ea91672717beaf547e5d1",
+    ".agents/skills/nexpulse-author-skill-rules/agents/openai.yaml": "0765dd0f2dc4513b5a608cc5e814cf4dd560532168d58ace673536c1deec3d3c",
+    ".agents/skills/nexpulse-author-skill-script/SKILL.md": "b8c84d2dc05c8ddab3a350f87eaf7704788730fdc62ed4093eefcc0e9656e9ff",
+    ".agents/skills/nexpulse-author-skill-script/agents/openai.yaml": "7e29a790bcfce026a2d3f7e2d9228a6f1f468c2618f42101ab77808b15d6678f",
+    ".agents/skills/nexpulse-author-skill-sop/SKILL.md": "10ee98cd93e4cfc44c0f6f6bd7034e4bf8b1f2cad81641556eda1dbba75bedac",
+    ".agents/skills/nexpulse-author-skill-sop/agents/openai.yaml": "5348693f8ccdf711b37b552ee223237f4208f36f5296f0f4e6cfc0d03ded48b9",
+    ".agents/skills/nexpulse-author-skill-template-file/SKILL.md": "70eaa2eb64b1f5933bed3f97fc78277dde632ac4ac57f8838cac4c8a6e9e9c83",
+    ".agents/skills/nexpulse-author-skill-template-file/agents/openai.yaml": "589a0d48bdc23674db32b1e15ec5017989237d79ad817922374315440839d31f",
+    ".agents/skills/nexpulse-discovery-engine/SKILL.md": "2fdf8d5daad4c566a35924e21fdc63095eeb1ea387dc600dc661b4180eba5d9f",
+    ".agents/skills/nexpulse-discovery-engine/agents/openai.yaml": "786c9d5c558e171d3321aa548015918a724e475ba3165ac4d82281b077f76329",
+    ".agents/skills/nexpulse-extract-shared-rules/SKILL.md": "83e2ecfb37871652c548749273b208f6b6b6afa067393c667a1335807896f6bc",
+    ".agents/skills/nexpulse-extract-shared-rules/agents/openai.yaml": "382fff13fc525c3b801cd6d826acb840e13ee56aa2e38951ff2e1735dcf97cd7",
+    ".agents/skills/nexpulse-skill-engineering/SKILL.md": "94f65218748a702bb14006c02141317b9309af51cbde6e63c897c0bd63982349",
+    ".agents/skills/nexpulse-skill-engineering/agents/openai.yaml": "477be63f060f3b00942a5e5395a5b0af86b4ce2f801de739862a8c03bdc8c3f8",
+    ".agents/skills/nexpulse-skill-rca/SKILL.md": "096eea2edb0d48eb41e8ad28df2ac3b2c6879bcd91673bad0ee041ce0c061806",
+    ".agents/skills/nexpulse-skill-rca/agents/openai.yaml": "2697503ee12f786805251c7bd75a03636ed2670c66fd58f4f9c36879fc9bcd08",
+    ".claude/skills/nexpulse-author-skill-frontmatter/SKILL.md": "949c20ab3a1c39c233eabd73b27fdab87257e052e9b2d3945c2934c1951e46f6",
+    ".claude/skills/nexpulse-author-skill-purpose/SKILL.md": "e542984f17a49ae0abbf3325828558c6ea6e23e44148e5235c1e2f7ae3d2489a",
+    ".claude/skills/nexpulse-author-skill-rules/SKILL.md": "3d660abfbda7265f8ab603e885b17d2024117d72998ea91672717beaf547e5d1",
+    ".claude/skills/nexpulse-author-skill-script/SKILL.md": "b8c84d2dc05c8ddab3a350f87eaf7704788730fdc62ed4093eefcc0e9656e9ff",
+    ".claude/skills/nexpulse-author-skill-sop/SKILL.md": "10ee98cd93e4cfc44c0f6f6bd7034e4bf8b1f2cad81641556eda1dbba75bedac",
+    ".claude/skills/nexpulse-author-skill-template-file/SKILL.md": "70eaa2eb64b1f5933bed3f97fc78277dde632ac4ac57f8838cac4c8a6e9e9c83",
+    ".claude/skills/nexpulse-discovery-engine/SKILL.md": "2fdf8d5daad4c566a35924e21fdc63095eeb1ea387dc600dc661b4180eba5d9f",
+    ".claude/skills/nexpulse-extract-shared-rules/SKILL.md": "83e2ecfb37871652c548749273b208f6b6b6afa067393c667a1335807896f6bc",
+    ".claude/skills/nexpulse-skill-engineering/SKILL.md": "94f65218748a702bb14006c02141317b9309af51cbde6e63c897c0bd63982349",
+    ".claude/skills/nexpulse-skill-rca/SKILL.md": "1cb04573e442e7b8efff2e8e61d11094035ba2c8642863e1e509270a290f71ed"
+  },
+  "non-kit-sha256": {
+    ".agents/skills/i-have-adhd/SKILL.md": "938d0e350a0c2b0e2e6c3a9032542e062846d108e0f89dd27c798ba5b436397e",
+    ".agents/skills/i-have-adhd/agents/openai.yaml": "2c51291283dcefdca43ca6b0c08172f225c7c26a9783ec444d6bdfa51ca96f8f",
+    ".agents/skills/i-have-adhd/agents/gemini.toml": "c35d2c2afd463cfc772bcc98bf45e1c549f1a62529477f9e7e204b1276a40c5c",
+    ".codex/config.toml": "0a11c6b06db06f399d88c426cd33367204c65cdc6b2761e3a79463cbd6eeb9a1"
+  },
+  "commands": [
+    {
+      "cwd": "E:\\HyperNexoraX\\nexpulse-harness-maintenance",
+      "args": [
+        "rev-parse",
+        "HEAD"
+      ],
+      "exit-code": 0,
+      "stdout": "ebe2b0973cb861dc51b0c4fa1f4f024793fcb5f5\n",
+      "stderr": ""
+    },
+    {
+      "cwd": "E:\\HyperNexoraX\\nexpulse-harness-maintenance\\vendor\\nexpulse-harness",
+      "args": [
+        "rev-parse",
+        "HEAD"
+      ],
+      "exit-code": 0,
+      "stdout": "d4dd4a423bf08a194fe785e390f9cc60494ba5ed\n",
+      "stderr": ""
+    },
+    {
+      "cwd": "E:\\HyperNexoraX\\nexpulse-harness-maintenance\\vendor\\nexpulse-harness",
+      "args": [
+        "symbolic-ref",
+        "-q",
+        "HEAD"
+      ],
+      "exit-code": 1,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "E:\\HyperNexoraX\\nexpulse-harness-maintenance\\vendor\\nexpulse-harness",
+      "args": [
+        "status",
+        "--porcelain"
+      ],
+      "exit-code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "E:\\HyperNexoraX\\nexpulse-harness-maintenance\\vendor\\nexpulse-harness",
+      "args": [
+        "merge-base",
+        "--is-ancestor",
+        "f067e56906059cb77451954c9b730b9493922f75",
+        "d4dd4a423bf08a194fe785e390f9cc60494ba5ed"
+      ],
+      "exit-code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "E:\\HyperNexoraX\\nexpulse-harness-maintenance\\vendor\\nexpulse-harness",
+      "args": [
+        "diff",
+        "--name-only",
+        "f067e56906059cb77451954c9b730b9493922f75",
+        "d4dd4a423bf08a194fe785e390f9cc60494ba5ed",
+        "--",
+        "nexpulse/ongoing"
+      ],
+      "exit-code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "E:\\HyperNexoraX\\nexpulse-harness-maintenance\\vendor\\nexpulse-harness",
+      "args": [
+        "ls-files",
+        "--",
+        ".agents",
+        ".claude",
+        ".codex",
+        ".gemini",
+        ".opencode",
+        ".grok"
+      ],
+      "exit-code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "E:\\HyperNexoraX\\nexpulse-harness-maintenance",
+      "args": [
+        "ls-files",
+        "--stage",
+        "--",
+        "vendor/nexpulse-harness"
+      ],
+      "exit-code": 0,
+      "stdout": "160000 d4dd4a423bf08a194fe785e390f9cc60494ba5ed 0\tvendor/nexpulse-harness\n",
+      "stderr": ""
+    },
+    {
+      "cwd": "E:\\HyperNexoraX\\nexpulse-harness-maintenance",
+      "args": [
+        "ls-files",
+        "--",
+        ".claude/settings.local.json"
+      ],
+      "exit-code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "cwd": "E:\\HyperNexoraX\\nexpulse-harness-maintenance",
+      "args": [
+        "check-ignore",
+        "--quiet",
+        ".claude/settings.local.json"
+      ],
+      "exit-code": 0,
+      "stdout": "",
+      "stderr": ""
+    }
+  ],
+  "limitations": [
+    "Run the source-owned status --check-index --verify-available separately.",
+    "No Host behavior is inferred from Git/hash checks."
+  ]
+}

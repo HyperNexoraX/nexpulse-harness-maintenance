@@ -1,0 +1,11 @@
+/.gitattributes text eol=lf
+/.gitmodules text eol=lf
+/.gitignore text eol=lf
+/AGENTS.md text eol=lf
+/README.md text eol=lf
+/.nexpulse/*.json text eol=lf
+/.agents/skills/** text eol=lf
+/.claude/skills/nexpulse-*/** text eol=lf
+/.codex/config.toml text eol=lf
+/scripts/** text eol=lf
+/docs/** text eol=lf

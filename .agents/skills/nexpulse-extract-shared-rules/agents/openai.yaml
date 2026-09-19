@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nexpulse Extract Shared Rules"
+  short_description: "從多個 Nexpulse Skills 提取共用 Rules，協調模組 ownership、consumer 引用遷移與語意保…"
+  default_prompt: "使用 $nexpulse-extract-shared-rules 處理這項需求。"
