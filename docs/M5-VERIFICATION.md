@@ -37,9 +37,21 @@ Source merge 中的 [M5 report](../vendor/nexpulse-harness/develop/skill-kit-lif
 
 原始證據：[index／availability](evidence/m5/maintenance-final-index-status.json)、[preservation](evidence/m5/maintenance-adoption-preservation.json)、[source merge](evidence/m5/source-merge.json)。
 
-首個 feature commit 發布後，另從遠端 fresh clone 核對完整安裝與 known-good recovery，再將實際 commit 及結果補入本節。Default branch merge 仍待本 repo 的具體 review。
+**Known-good adoption commit：`7026a9e6e4aa914c924e6afe333e4d8bc6b41717`**，已推送至 `codex/skill-kit-m5`，由 [maintenance PR #1](https://github.com/HyperNexoraX/nexpulse-harness-maintenance/pull/1) review。後續文件／evidence commit 保留這個 commit，不改安裝內容。
 
-## AC09 與工作位置
+真實遠端 fresh clone：`E:/HyperNexoraX/nexpulse-harness/build/m5-maintenance-fresh-20260919`。Clone 使用 `--recurse-submodules` 與 `core.autocrlf=true`，source pin 為 `d4dd4a423bf08a194fe785e390f9cc60494ba5ed`，沒有本機專用 runtime binary；以 PATH 的 uv 0.11.4、空 cache 執行 README 的 `scripts/kit.ps1 status --check-index --verify-available`，結果 SYNCED、index-current true、availability VERIFIED、零 differences／pending-index，Git 工作區保持乾淨。
+
+Fresh clone 的 **16 項 checks 全部 PASS**，其中包含與正式 workspace 比較的 30 個 managed outputs／4 個非 kit files 的 exact-byte recovery。新 clone 的 Codex `codex-cli 0.153.4` discovery 也取得 10／10 kit entries、enabled／repo scope／companion metadata PASS。
+
+原始證據：[fresh clone／wrapper](evidence/m5/maintenance-fresh-clone.json)、[16 項 recovery checks](evidence/m5/maintenance-fresh-preservation.json)、[fresh Codex discovery](evidence/m5/maintenance-fresh-discovery.json)。本輪只做 source projection／外層 adoption，未改 canonical 或 runtime，沒有無差別重跑舊 fixture suites。
+
+Default branch merge 仍待本 repo 的具體 head／base review；目前可從 feature branch 取得完整內容，GitHub `develop` 在 merge 前仍是 bootstrap。
+
+## AC09：maintenance 範圍 PASS
+
+必要 Skills 的真實載入、source active tree 退出自用 projections、來源 Git 歷史保存、外層 Git adoption 與 known-good recovery 均有實際證據。Claude 模型帳號阻擋與 Framework 延後依 Human 指定明示，不延伸為全 Host／原始完整 M5 驗收通過。
+
+### 工作位置與待處理工作
 
 正式日常入口為 `E:/HyperNexoraX/nexpulse-harness-maintenance`。原 `E:/HyperNexoraX/nexpulse-harness` 的 `codex/skill-kit-m4`／`f067e56` 與 M3 worktree 保留，不刪除或 reset。
 
