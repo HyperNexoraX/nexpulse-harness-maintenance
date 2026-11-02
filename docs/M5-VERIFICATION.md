@@ -24,11 +24,11 @@ Maintenance 是 public；source 仍 private。Clone／availability 檢查使用�
 
 ## 已有真實 Host 證據
 
-Source merge 中的 [M5 report](../vendor/nexpulse-harness/develop/skill-kit-lifecycle/M5-VERIFICATION.md) 保存遷移前的原始 inventory、initial apply、15 項 preservation checks、實際 Host events 與失敗紀錄。
+Source merge 中的 [M5 report](https://github.com/HyperNexoraX/nexpulse-harness/blob/d4dd4a423bf08a194fe785e390f9cc60494ba5ed/develop/skill-kit-lifecycle/M5-VERIFICATION.md)（本機即 pin 下的 `vendor/nexpulse-harness/develop/skill-kit-lifecycle/M5-VERIFICATION.md`）保存遷移前的原始 inventory、initial apply、15 項 preservation checks、實際 Host events 與失敗紀錄。Source 收尾 [PR #4](https://github.com/HyperNexoraX/nexpulse-harness/pull/4) 已以 merge commit `9c4c091b0b0f7084a26710cf31bf79c048be8dda` 合併至 source `develop`，其 [M5 report](https://github.com/HyperNexoraX/nexpulse-harness/blob/9c4c091b0b0f7084a26710cf31bf79c048be8dda/develop/skill-kit-lifecycle/M5-VERIFICATION.md) 保存 maintenance adoption、fresh clone 與 AC09 的最終紀錄；該 merge 只含文件，maintenance pin 維持 `d4dd4a4`。Source 為 private，上述連結需要 source 存取權。
 
 - Codex 0.153.4：maintenance 的 10 個 kit Skills discovery／companion metadata 通過。
 - 真實 Codex 模型：從外層 Frontmatter／Engineering 入口追讀 source Body、Rules 與 collaboration resources；辨識 source／consumer owner，透過正常 Host approval reviewer 成功執行 source locked status。
-- 上述模型 trial 使用 `b6249fd`，當時 index 尚未完成。`d4dd4a4` 的 canonical 與 30 個 outputs 相同；正式 pin／index 結果由下方獨立記錄，不改写舊 trial 的 revision。
+- 上述模型 trial 使用 `b6249fd`，當時 index 尚未完成。`d4dd4a4` 的 canonical 與 30 個 outputs 相同；正式 pin／index 結果由下方獨立記錄，不改寫舊 trial 的 revision。
 - Claude Code 2.1.210：OAuth session 過期且 refresh 失敗，模型 0 tokens；Human 指定本次記為帳號阻擋。
 
 ## 正式 adoption 與恢復

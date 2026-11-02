@@ -4,7 +4,7 @@ Nexpulse 日常維護的正式外層 workspace。Canonical Skills、resources、
 
 ## 啟動
 
-需要 Git、Python 3.11+、uv 0.11.4+，以及 private source repository 的 Git 存取權。Maintenance 為 public；source 存取權仍個別管理。
+需要 Git、PowerShell 7+（或已允許執行本機 script 的 Windows PowerShell）、Python 3.11+、uv 0.11.4+，以及 private source repository 的 Git 存取權。Maintenance 為 public；source 存取權仍個別管理。
 
 ```powershell
 git clone --recurse-submodules https://github.com/HyperNexoraX/nexpulse-harness-maintenance.git
