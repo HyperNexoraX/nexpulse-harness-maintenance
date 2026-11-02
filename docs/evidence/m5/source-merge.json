@@ -1,0 +1,31 @@
+{
+  "approval_source": "Human reply in M5 task",
+  "approval": "核准此 source head／base 的 merge",
+  "approved_head": "9471d0d641bc8f02d55b923cda6da6537f64ff2d",
+  "approved_base": "862c21a655040de0e07baf5d94d958e3438229e0",
+  "before": {
+    "baseRefOid": "862c21a655040de0e07baf5d94d958e3438229e0",
+    "headRefOid": "9471d0d641bc8f02d55b923cda6da6537f64ff2d",
+    "isDraft": false,
+    "mergeable": "MERGEABLE",
+    "state": "OPEN",
+    "statusCheckRollup": []
+  },
+  "after": {
+    "baseRefName": "develop",
+    "baseRefOid": "862c21a655040de0e07baf5d94d958e3438229e0",
+    "headRefOid": "9471d0d641bc8f02d55b923cda6da6537f64ff2d",
+    "mergeCommit": {
+      "oid": "d4dd4a423bf08a194fe785e390f9cc60494ba5ed"
+    },
+    "mergedAt": "2026-09-15T15:00:47Z",
+    "state": "MERGED",
+    "url": "https://github.com/HyperNexoraX/nexpulse-harness/pull/2"
+  },
+  "merge_parents": [
+    "862c21a655040de0e07baf5d94d958e3438229e0",
+    "9471d0d641bc8f02d55b923cda6da6537f64ff2d"
+  ],
+  "head_ancestry": "PASS",
+  "handoff_ancestry": "PASS"
+}

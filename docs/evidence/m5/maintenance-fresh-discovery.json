@@ -1,0 +1,215 @@
+{
+  "started-at": "2026-09-19T03:52:14.081016+00:00",
+  "host": "codex-discovery",
+  "version": "codex-cli 0.153.4",
+  "cwd": "E:\\HyperNexoraX\\nexpulse-harness\\build\\m5-maintenance-fresh-20260919",
+  "driver-sha256": "77c7ee5da08e708a5ae42146000757d79300accb0af58e4b0e7f0f26a0aaeaee",
+  "uv-cache": "E:\\HyperNexoraX\\nexpulse-harness\\build\\m5-maintenance-fresh-20260919\\build\\uv-cache",
+  "config-sha256": "7dc7f5f953625ff2528e506bdac969b12ca003833cad0e7e9e517785a1704775",
+  "manifest-sha256": "01e8d2db2e70a6f63af1512887967d1851706245396a939273e79454234db5ae",
+  "known-git-roots": [],
+  "reused-probe-sha256": "1c2cead746a2d2b81b3ac6d62fc5445a80124af2a97aaa439ab3639645b04ae1",
+  "observation": {
+    "status": "PASS",
+    "label": "discovery",
+    "command": [
+      "C:\\Users\\tim65\\AppData\\Roaming\\npm\\node_modules\\@openai\\codex\\node_modules\\@openai\\codex-win32-x64\\vendor\\x86_64-pc-windows-msvc\\bin\\codex.exe",
+      "app-server",
+      "--stdio"
+    ],
+    "method": "skills/list",
+    "cwd": "E:\\HyperNexoraX\\nexpulse-harness\\build\\m5-maintenance-fresh-20260919",
+    "forceReload": true,
+    "discovered": [
+      {
+        "name": "nexpulse-author-skill-frontmatter",
+        "description": "建立、編輯、驗證並 materialize Nexpulse Skill 的 canonical frontmatter 與支援的 Host projections。Use when 建立 Nexpulse Skill、修改 name／description／human／agent invocation behavior、重建或同步 frontmatter、規劃 ongoing／released rename 或 revision，或重新產生 coding-agent Host projections。SKIP when 主要需求是撰寫 Purpose、Rules、SOP、resources、完整 logical Body、執行 behavioral evaluation，或 promotion。",
+        "interface": {
+          "displayName": "Nexpulse Author Skill Frontmatter",
+          "shortDescription": "建立、編輯、驗證並 materialize Nexpulse Skill 的 canonical frontmatter 與支…",
+          "iconSmall": null,
+          "iconLarge": null,
+          "iconSmallUrl": null,
+          "iconLargeUrl": null,
+          "brandColor": null,
+          "defaultPrompt": "使用 $nexpulse-author-skill-frontmatter 處理這項需求。"
+        },
+        "path": "E:\\HyperNexoraX\\nexpulse-harness\\build\\m5-maintenance-fresh-20260919\\.agents\\skills\\nexpulse-author-skill-frontmatter\\SKILL.md",
+        "scope": "repo",
+        "enabled": true,
+        "pluginId": null
+      },
+      {
+        "name": "nexpulse-author-skill-purpose",
+        "description": "建立、修改並核對 Nexpulse Skill 的 canonical Purpose。Use when 使用者要求建立、修改、修正或核對 Skill Purpose。SKIP when 主要需求是修改 Frontmatter、Rules、SOP、resources、完整 logical Body、Host projections、live released artifacts，或 promotion。",
+        "interface": {
+          "displayName": "Nexpulse Author Skill Purpose",
+          "shortDescription": "建立、修改並核對 Nexpulse Skill 的 canonical Purpose",
+          "iconSmall": null,
+          "iconLarge": null,
+          "iconSmallUrl": null,
+          "iconLargeUrl": null,
+          "brandColor": null,
+          "defaultPrompt": "使用 $nexpulse-author-skill-purpose 處理這項需求。"
+        },
+        "path": "E:\\HyperNexoraX\\nexpulse-harness\\build\\m5-maintenance-fresh-20260919\\.agents\\skills\\nexpulse-author-skill-purpose\\SKILL.md",
+        "scope": "repo",
+        "enabled": true,
+        "pluginId": null
+      },
+      {
+        "name": "nexpulse-author-skill-rules",
+        "description": "Author、validate 並 materialize Nexpulse Skill 的 canonical Rules 與 scoped RuleFile resources。Use when 使用者要求建立、修改、修正或同步 Skill Rules。SKIP when 主要需求是撰寫 Purpose、SOP 或其他非 Rules Skill 部位。",
+        "interface": {
+          "displayName": "Nexpulse Author Skill Rules",
+          "shortDescription": "Author、validate 並 materialize Nexpulse Skill 的 canonical Rules …",
+          "iconSmall": null,
+          "iconLarge": null,
+          "iconSmallUrl": null,
+          "iconLargeUrl": null,
+          "brandColor": null,
+          "defaultPrompt": "使用 $nexpulse-author-skill-rules 處理這項需求。"
+        },
+        "path": "E:\\HyperNexoraX\\nexpulse-harness\\build\\m5-maintenance-fresh-20260919\\.agents\\skills\\nexpulse-author-skill-rules\\SKILL.md",
+        "scope": "repo",
+        "enabled": true,
+        "pluginId": null
+      },
+      {
+        "name": "nexpulse-author-skill-script",
+        "description": "將 Nexpulse Skill SOP／Rules 中可明確規格化的機械工作實作為可重用、可驗證的 scripts，並協調呼叫整合。Use when 使用者要降低 Skill 執行的 context 成本、以程式承擔確定性操作，或建立及修改支援既有 Skill 流程的 script。SKIP when 只需執行既有 script、單純編修 prose，或主要需求是設計與實作獨立的 tool/runtime。",
+        "interface": {
+          "displayName": "Nexpulse Author Skill Script",
+          "shortDescription": "將 Nexpulse Skill SOP／Rules 中可明確規格化的機械工作實作為可重用、可驗證的 scripts，並協調呼…",
+          "iconSmall": null,
+          "iconLarge": null,
+          "iconSmallUrl": null,
+          "iconLargeUrl": null,
+          "brandColor": null,
+          "defaultPrompt": "使用 $nexpulse-author-skill-script 處理這項需求。"
+        },
+        "path": "E:\\HyperNexoraX\\nexpulse-harness\\build\\m5-maintenance-fresh-20260919\\.agents\\skills\\nexpulse-author-skill-script\\SKILL.md",
+        "scope": "repo",
+        "enabled": true,
+        "pluginId": null
+      },
+      {
+        "name": "nexpulse-author-skill-sop",
+        "description": "Author、validate 並 materialize Nexpulse Skill 的 canonical SOP。Use when 使用者要求建立、修改、修正或同步 Skill SOP。SKIP when 主要需求是撰寫 Skill 的其他部位，或執行／評估既有 SOP。",
+        "interface": {
+          "displayName": "Nexpulse Author Skill Sop",
+          "shortDescription": "Author、validate 並 materialize Nexpulse Skill 的 canonical SOP",
+          "iconSmall": null,
+          "iconLarge": null,
+          "iconSmallUrl": null,
+          "iconLargeUrl": null,
+          "brandColor": null,
+          "defaultPrompt": "使用 $nexpulse-author-skill-sop 處理這項需求。"
+        },
+        "path": "E:\\HyperNexoraX\\nexpulse-harness\\build\\m5-maintenance-fresh-20260919\\.agents\\skills\\nexpulse-author-skill-sop\\SKILL.md",
+        "scope": "repo",
+        "enabled": true,
+        "pluginId": null
+      },
+      {
+        "name": "nexpulse-author-skill-template-file",
+        "description": "建立、修改並核對 Nexpulse Skill 的 Markdown TemplateFile，管理固定格式與填寫位置。Use when 使用者要求建立、修改或同步 Skill 使用的 Markdown 範本，或將既有 Rules 的格式描述抽成 TemplateFile。SKIP when 只需依既有範本產生單次成品，或主要需求是修改 Rules 語意、SOP 流程、程式模板引擎或 binary assets。",
+        "interface": {
+          "displayName": "Nexpulse Author Skill Template File",
+          "shortDescription": "建立、修改並核對 Nexpulse Skill 的 Markdown TemplateFile，管理固定格式與填寫位置",
+          "iconSmall": null,
+          "iconLarge": null,
+          "iconSmallUrl": null,
+          "iconLargeUrl": null,
+          "brandColor": null,
+          "defaultPrompt": "使用 $nexpulse-author-skill-template-file 處理這項需求。"
+        },
+        "path": "E:\\HyperNexoraX\\nexpulse-harness\\build\\m5-maintenance-fresh-20260919\\.agents\\skills\\nexpulse-author-skill-template-file\\SKILL.md",
+        "scope": "repo",
+        "enabled": true,
+        "pluginId": null
+      },
+      {
+        "name": "nexpulse-discovery-engine",
+        "description": "透過逐題、可追溯且可恢復的多輪 discovery，將不完整的 product、architecture 或 Skill intent 收斂為對應的 Human-reviewed specification。Use when product、architecture 或 Skill development 的 goals、requirements、boundaries、constraints、assumptions、decisions 或 acceptance targets 尚未充分定義，或需要延續／恢復既有 discovery session。SKIP when exact specification 已核准，主要需求是 author／materialize formal artifacts、執行 evaluation／implementation，或進行非 discovery 型單次問答。",
+        "interface": {
+          "displayName": "Nexpulse Discovery Engine",
+          "shortDescription": "透過逐題、可追溯且可恢復的多輪 discovery，將不完整的 product、architecture 或 Skill in…",
+          "iconSmall": null,
+          "iconLarge": null,
+          "iconSmallUrl": null,
+          "iconLargeUrl": null,
+          "brandColor": null,
+          "defaultPrompt": "使用 $nexpulse-discovery-engine 處理這項需求。"
+        },
+        "path": "E:\\HyperNexoraX\\nexpulse-harness\\build\\m5-maintenance-fresh-20260919\\.agents\\skills\\nexpulse-discovery-engine\\SKILL.md",
+        "scope": "repo",
+        "enabled": true,
+        "pluginId": null
+      },
+      {
+        "name": "nexpulse-extract-shared-rules",
+        "description": "從多個 Nexpulse Skills 提取共用 Rules，協調模組 ownership、consumer 引用遷移與語意保留。Use when 使用者要求跨 Skill 去重、抽離共用規則或調整既有共用規則的 ownership，且已有可比較的 Skill 內容。SKIP when 只需撰寫單一 Skill 的 Rules、直接編修已確認的共用 RuleFile，或抽離 SOP 或 Script 實作。",
+        "interface": {
+          "displayName": "Nexpulse Extract Shared Rules",
+          "shortDescription": "從多個 Nexpulse Skills 提取共用 Rules，協調模組 ownership、consumer 引用遷移與語意保…",
+          "iconSmall": null,
+          "iconLarge": null,
+          "iconSmallUrl": null,
+          "iconLargeUrl": null,
+          "brandColor": null,
+          "defaultPrompt": "使用 $nexpulse-extract-shared-rules 處理這項需求。"
+        },
+        "path": "E:\\HyperNexoraX\\nexpulse-harness\\build\\m5-maintenance-fresh-20260919\\.agents\\skills\\nexpulse-extract-shared-rules\\SKILL.md",
+        "scope": "repo",
+        "enabled": true,
+        "pluginId": null
+      },
+      {
+        "name": "nexpulse-skill-engineering",
+        "description": "協調 author-skill series 完成 Nexpulse Skill 的整體建立、重構與 polish，並分析及整合所需的 Script／TemplateFile。Use when 使用者要建立全新 Skill、整體重構或 polish 既有 Skill，或希望一次協調 Frontmatter、Purpose、SOP 與 Rules 的 authoring。SKIP when 只需修改單一 Skill 部位、執行既有 Skill 的任務，或主要需求是 behavioral evaluation、promotion 或安裝。",
+        "interface": {
+          "displayName": "Nexpulse Skill Engineering",
+          "shortDescription": "協調 author-skill series 完成 Nexpulse Skill 的整體建立、重構與 polish，並分析及整…",
+          "iconSmall": null,
+          "iconLarge": null,
+          "iconSmallUrl": null,
+          "iconLargeUrl": null,
+          "brandColor": null,
+          "defaultPrompt": "使用 $nexpulse-skill-engineering 處理這項需求。"
+        },
+        "path": "E:\\HyperNexoraX\\nexpulse-harness\\build\\m5-maintenance-fresh-20260919\\.agents\\skills\\nexpulse-skill-engineering\\SKILL.md",
+        "scope": "repo",
+        "enabled": true,
+        "pluginId": null
+      },
+      {
+        "name": "nexpulse-skill-rca",
+        "description": "回溯 Skill 執行證據與 context，分析根因，與 Human 收斂後協調修正及驗證。Use when 使用者指出已執行 Skill 的產出不符預期或流程反覆受阻，並要求 RCA 或根因分析。SKIP when 只需修正單次產出、依既定方向編修 Skill，或主要需求是一般 behavioral evaluation。",
+        "interface": {
+          "displayName": "Nexpulse Skill Rca",
+          "shortDescription": "回溯 Skill 執行證據與 context，分析根因，與 Human 收斂後協調修正及驗證",
+          "iconSmall": null,
+          "iconLarge": null,
+          "iconSmallUrl": null,
+          "iconLargeUrl": null,
+          "brandColor": null,
+          "defaultPrompt": "使用 $nexpulse-skill-rca 處理這項需求。"
+        },
+        "path": "E:\\HyperNexoraX\\nexpulse-harness\\build\\m5-maintenance-fresh-20260919\\.agents\\skills\\nexpulse-skill-rca\\SKILL.md",
+        "scope": "repo",
+        "enabled": true,
+        "pluginId": null
+      }
+    ],
+    "relevant-errors": [],
+    "other-error-count": 0,
+    "not-verified": [
+      "model invocation",
+      "Body/Rules adherence",
+      "other Hosts"
+    ]
+  },
+  "status": "PASS",
+  "finished-at": "2026-09-19T03:52:14.724293+00:00"
+}

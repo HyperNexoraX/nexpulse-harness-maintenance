@@ -1,0 +1,3 @@
+[submodule "vendor/nexpulse-harness"]
+	path = vendor/nexpulse-harness
+	url = https://github.com/HyperNexoraX/nexpulse-harness.git

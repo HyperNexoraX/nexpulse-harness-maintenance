@@ -1,0 +1,14 @@
+# Keep selected user-scope skills disabled only for this project.
+model_reasoning_summary = "detailed"
+model_verbosity = "high"
+model_reasoning_effort = "xhigh"
+model_context_window = 500000
+model_auto_compact_token_limit = 400000
+
+[[skills.config]]
+path = "~/.agents/skills/orca-cli/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "~/.agents/skills/orchestration/SKILL.md"
+enabled = false
