@@ -4,7 +4,7 @@
     "codex"
   ],
   "installation-id": "nexpulse",
-  "revision": "d4dd4a423bf08a194fe785e390f9cc60494ba5ed",
+  "revision": "34a7b802d59c309bd93eb7585a82c0f1a10a9b56",
   "schema-version": 1,
   "source": "vendor/nexpulse-harness"
 }
