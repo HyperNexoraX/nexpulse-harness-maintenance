@@ -1,5 +1,5 @@
 {
-  "generated-from": "14af65f32930fa72b36c837510d1844c1d8059fc",
+  "generated-from": "dc59cb08b95bae8b036ae7a69c1727bddaa76454",
   "hosts": [
     "claude-code",
     "codex"
@@ -21,7 +21,7 @@
     "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/rules/semantic-confirmation.md": "0923a5f28b233c9be90c616e1cfa5826180d7c4987146a01b2186ba69b14d08c",
     "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/scripts/derive_unicode_ranges/README.md": "976a898ff68b0da482371a25a5b3f75b856a24208684fdf3f95bd3270eb49bdf",
     "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/scripts/derive_unicode_ranges/derive_unicode_ranges.py": "244e39bb6d3ca07d8a460d82e8490002d8593b766177979c8ec83b9c19d473dd",
-    "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/scripts/frontmatter/README.md": "2b74dd5627fd74518ca357dda824844811b502f8b0a3d7bdf91ecda9973c8104",
+    "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/scripts/frontmatter/README.md": "ccbd8dcf35dec23bd50a63488fea181c56ec9bd25cd4edb33abc0c9a1cc5640e",
     "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/scripts/frontmatter/_mutation_protocol.py": "83e74c2eae4988308668484a92e783916c675b352711ebecaff7391f13ec1dfb",
     "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/scripts/frontmatter/frontmatter.py": "aa10c19b7916af18c05a08f1fd3f20f40d2018987626491d7f3b55b24f50f595",
     "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/scripts/frontmatter/frontmatter.py.lock": "1d7708fe08a3b5e41630535257d4afcddb60e5aef2302047f16d33bd27846a90",
@@ -935,7 +935,7 @@
       "to": "nexpulse/ongoing/skills/nexpulse-skill-rca/rules/evidence-and-causality.md"
     }
   ],
-  "revision": "14af65f32930fa72b36c837510d1844c1d8059fc",
+  "revision": "dc59cb08b95bae8b036ae7a69c1727bddaa76454",
   "schema-version": 1,
   "skills": [
     "nexpulse-author-skill-frontmatter",
