@@ -16,4 +16,4 @@
 - 跨 source 貢獻使用選定 source 中的 skill-collaboration 流程與 versioned records。共同 upstream merge 需對具體 head／base 的 Human review。
 - 正式 kit commit 一起 stage config、manifest、gitlink、managed changed paths 與必要 attributes，取得 `status --check-index --verify-available` 的 SYNCED。
 - Actual Host discovery、model adherence、Git／CLI 結果分別報告；生成入口不代表 Host 已實測。
-- Source 的 `nexpulse/stale/**` 與 `.inspiration/**` 不預讀、不作 current contract；只有使用者明確指定歷史範圍才讀取。
+- Source 的 `reports/**` 與 `.inspiration/**` 不預讀、不作 current contract；只有使用者明確指定歷史範圍才讀取。
