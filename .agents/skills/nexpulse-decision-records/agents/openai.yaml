@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nexpulse Decision Records"
+  short_description: "將 discovery session 的決策彙整成 session 外的 ADR 並維護其狀態，處理決策被取代，並在結案後將…"
+  default_prompt: "使用 $nexpulse-decision-records 處理這項需求。"
