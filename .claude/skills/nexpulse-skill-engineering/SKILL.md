@@ -1,7 +1,7 @@
 ---
 name: nexpulse-skill-engineering
 description: >-
-  協調 author-skill series 完成 Nexpulse Skill 的整體建立、重構與 polish，並分析及整合所需的 Script／TemplateFile。Use when 使用者要建立全新 Skill、整體重構或 polish 既有 Skill，或希望一次協調 Frontmatter、Purpose、SOP 與 Rules 的 authoring。SKIP when 只需修改單一 Skill 部位、執行既有 Skill 的任務，或主要需求是 behavioral evaluation、promotion 或安裝。
+  協調 author-skill series 完成 Nexpulse Skill 的整體建立、重構與 polish，分析及整合所需的 Script／TemplateFile，並在 specification 確認後串接 ADR 彙整、authoring、補正與驗證。Use when 使用者要建立全新 Skill、整體重構或 polish 既有 Skill、希望一次協調 Frontmatter、Purpose、SOP 與 Rules 的 authoring，或要依 discovery session 已確認的 specification 開發 Skill。SKIP when 沒有 specification 而只需修改單一 Skill 部位、執行既有 Skill 的任務，或主要需求是 behavioral evaluation、promotion 或安裝。
 ---
 
 <!-- nexpulse:logical-body=linked entity="vendor/nexpulse-harness/nexpulse/ongoing/skills/nexpulse-skill-engineering/" body="vendor/nexpulse-harness/nexpulse/ongoing/skills/nexpulse-skill-engineering/BODY.md" -->
