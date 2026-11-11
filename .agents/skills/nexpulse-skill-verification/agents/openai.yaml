@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nexpulse Skill Verification"
+  short_description: "產出 Nexpulse Skill 修改的驗證報告並進行獨立檢查，比對產出與 specification、ADR 及 auth…"
+  default_prompt: "使用 $nexpulse-skill-verification 處理這項需求。"
