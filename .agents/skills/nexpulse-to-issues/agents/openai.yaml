@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nexpulse To Issues"
+  short_description: "把工作中發現的 issue 起草成目標 repository 所在平台的 issue，經 Human 核准後建立、併入既有 i…"
+  default_prompt: "使用 $nexpulse-to-issues 處理這項需求。"
