@@ -1,0 +1,6 @@
+interface:
+  display_name: "Nexpulse Rca"
+  short_description: "從 issue 分析 Agent 或 Skill 的行為、程式表現或改善的根因與現況成因，經 Human 核准把結論留言寫回 …"
+  default_prompt: "使用 $nexpulse-rca 處理這項需求。"
+policy:
+  allow_implicit_invocation: false
