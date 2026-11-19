@@ -1,5 +1,5 @@
 {
-  "generated-from": "c3507c991325dc15c312c0cbfaabbff7b2520067",
+  "generated-from": "1bce63135284c195c238a127dae7c133f08eb337",
   "hosts": [
     "claude-code",
     "codex"
@@ -87,28 +87,33 @@
     "nexpulse/ongoing/skills/nexpulse-decision-records/templates/adr-checklist.md": "9244856d20d4e3683254b234d6e0188d0e7a69308c78f00a1db2a3fcee52fa4d",
     "nexpulse/ongoing/skills/nexpulse-decision-records/templates/adr.example.md": "c9591135e38c7a610fcfe5a3129b93348042d416106f10b2cf67e0215713b782",
     "nexpulse/ongoing/skills/nexpulse-decision-records/templates/adr.md": "8e085fd483ae415ba32f8e101541a2e2c855e06e88504b5b474f15e368df27f3",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md": "b3f804af330b0aba4b5ca5a688d0ab97c305bcbbe54270ceaeb35ec11458c0cf",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md": "0bb1ea2a9187630d9fedcf2f94f2f030ec948242c48c6e177db80b3340228a08",
     "nexpulse/ongoing/skills/nexpulse-discovery-engine/FRONTMATTER.yaml": "fa768405c020844fe67e50b1aa9fa29b5b8460ba3551d9376365307150e5c255",
     "nexpulse/ongoing/skills/nexpulse-discovery-engine/profiles/skill.md": "62ddcafea7ff24dc5b5f68961f1301f5857311f966f5db4ff7298abf343a55bf",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/phases/exploration.md": "d7cd396fd49764fb2ae8639c70aaa77b88ef67ab25e31e0ee041d4e6bfc92fe2",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/phases/exploration.md": "50f0c3fb46a2dc570b7ea2f6c15bbf5fde674ab5b00fb1a214102cddcb1418f5",
     "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/phases/questioning.md": "36cdfe4ad104aa76549965717781f0109be616767db8a42bb3a2284427069064",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/phases/review-and-completion.md": "b87818beda1dac30ff4a34b945c7e9173be1a8c2f0e6077c93cc25aef1faf409",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/phases/startup.md": "b5dfe6eb2b187c179d3bd72311ebb26805c09356c627ee3985ed5e84d9631f92",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/confirmation-boundaries.md": "c32afdf02eabfc69df8254cbd7d73a3c095244e1adfeac53ccfcd890909d6e8a",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/records-and-specification.md": "4e9d7b2378c74ea1fd69093625f89c6dab2da08003d2554948e2a501d4dc7aa2",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/session-boundaries.md": "544cd91f2edcdc704f85fe8bdb9f56751875765fdadf43d1c160dad0295bba21",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/session-state.md": "817206b2b223c60e4249eebdee893db7064a417e3b9d6897db366c24af6bc4ac",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/scripts/session_context/MAPPING.md": "684c89e80f3831c15d0a881a8924419a2ea0733bb9ca560c27257b16aa476068",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/scripts/session_context/README.md": "13e45d9a26b62c45d2de5de65e6f182fc05cc0b597712eb4efd0a21339ffe6f3",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/scripts/session_context/session_context.py": "7a0ba186db1af5bdca46b1c6f4ca125a2bd2bdf7d147225aec7cc11aea3a4b89",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/phases/review-and-completion.md": "18259725590d9d6039a045cf80060a8cbaa6f140b049c733b9e825fd1ecc74a3",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/phases/startup.md": "e55504a5020747fc6d867fb008ea02911126edb6f5a76d30970ab2e381f42b14",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/confirmation-boundaries.md": "101414489fbc04368b11991b5884d705bb48e22902d26d1bb3a9c7506575a87d",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/records-and-specification.md": "c20dadd8bc01eae982e471d6965451fb0fc53387e4edfeda021317b357d238b5",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/session-boundaries.md": "004ff90cafd8a45cb86d0247490e5c9337e6b948329b44c105824cef366dbdae",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/session-state.md": "05520f72797f7a9e52cdf436cbd8a2d4d9eae9bd44c67f179da9b437974c24e1",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/scripts/session_context/MAPPING.md": "7f6df40fde43ae394e345672e394d2a285a8bc1ebf49b08c8f7cd8a3d6ecc2c6",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/scripts/session_context/README.md": "8fc97a32d980765f9d2aa85d3f06af86728aa2ec3b4b1537d293b8e33b8364d3",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/scripts/session_context/session_context.py": "f76369e50338d9ccb147775dbc0fd5f38ca1ba0e3f13b6280b46ed0dce8b2fab",
     "nexpulse/ongoing/skills/nexpulse-discovery-engine/scripts/session_context/session_context.py.lock": "1d7708fe08a3b5e41630535257d4afcddb60e5aef2302047f16d33bd27846a90",
     "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/decision.md": "5ac78df8492233f93b1493efb5e4dc527dc97a0eb9f4e831f15e6d1053236153",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/gap-list.md": "f66adf7a206cd4ff7d6cb6e4c9b093c2ea2cb8793664f6a95088812713f45774",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/evidence.md": "58765de5a505ff5ff255e3fdc44dfcebe24579e31dc6c500a38f30161ac65418",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/gap-list.md": "1fd6f3cd02256778609fc29b6addd5327750771ea08c82398308606f8674d942",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/handoff.md": "4bce4918eda491b46aa8d69669a043599c0a43eb0da3d082386fe0428f1c202b",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/input.md": "e1f438fec9656d3e6ef387e8bbc8f5b1bb6bfb87103b3e61ec73d4cc0a9c919d",
     "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/profile.md": "40ed43ce844e6a436f1f8c902f97321e05c6f9f2d7f0e2ce15bdd6ee5a627b1e",
     "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/question.example.md": "bfcdc4ddb7a416da4228ab4ed633f8705617933be2757b5d0e33c2e1d62068e8",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/question.md": "55574a8ddb152a6cd7cb43e9738a0123b4c8ce6773994ec4fb08268fb22b6a82",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/record.md": "0a7d939335622fba6627cb9d0ab2496f9b80371cc6873a8897e28c33283f61d8",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/question.md": "e8e1ecf436135ba1e78f72ca751df2900583a116ce17c927931b0a0bfeea108d",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/record.md": "310e82a5ea6c8181b901757fec9eaa252ebec82a55e359c0362f4fca7ca80f11",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/session.md": "f2cc8a90b80b86f3bb2efd399b0faf8077025d9c06d47cb32b411ee79180a59e",
     "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/specification.md": "e0f8b0970e11a6738858d7260b492e5071ae528aace974476bba776ee72db5ec",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/topic.md": "e1988950202346bfca4d0bec1d6aff9e7cb3d9dca6e589b1afe108a6b8e7d7cf",
     "nexpulse/ongoing/skills/nexpulse-extract-shared-rules/BODY.md": "2e7bd8280f59540ca257472a3d3381776b23c8d528c3057e281a9ddd8a3e7076",
     "nexpulse/ongoing/skills/nexpulse-extract-shared-rules/FRONTMATTER.yaml": "bd60da5fe53b898826f1b114a7ca9118d2da908d3f3ffd7593c86ab291ae27fc",
     "nexpulse/ongoing/skills/nexpulse-extract-shared-rules/rules/consumer-migration-and-verification.md": "a06b7748bd5eac8f47386cf69669c0136bb7d0e90210911fe7e945a892bf0d2d",
@@ -886,7 +891,23 @@
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/session.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
       "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/specification.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/topic.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/session-state.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/scripts/session_context/README.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
@@ -903,6 +924,10 @@
     {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
       "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/phases/exploration.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/evidence.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
@@ -926,11 +951,23 @@
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/input.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
       "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/decision.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
       "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/phases/review-and-completion.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/gap-list.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/handoff.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/phases/exploration.md",
@@ -993,12 +1030,20 @@
       "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/profile.md"
     },
     {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/confirmation-boundaries.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/evidence.md"
+    },
+    {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/records-and-specification.md",
       "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/confirmation-boundaries.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/records-and-specification.md",
       "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/scripts/session_context/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/records-and-specification.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/session.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/records-and-specification.md",
@@ -1015,6 +1060,18 @@
     {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/records-and-specification.md",
       "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/decision.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/records-and-specification.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/input.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/records-and-specification.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/evidence.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/records-and-specification.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/topic.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/session-boundaries.md",
@@ -1039,6 +1096,10 @@
     {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/session-state.md",
       "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/scripts/session_context/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/shared/session-state.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-discovery-engine/templates/handoff.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-extract-shared-rules/BODY.md",
@@ -1537,7 +1598,7 @@
       "to": "nexpulse/ongoing/skills/nexpulse-rca/rules/evidence-and-causality.md"
     }
   ],
-  "revision": "c3507c991325dc15c312c0cbfaabbff7b2520067",
+  "revision": "1bce63135284c195c238a127dae7c133f08eb337",
   "schema-version": 1,
   "skills": [
     "nexpulse-author-skill-frontmatter",
