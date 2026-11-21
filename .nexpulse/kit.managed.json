@@ -1,5 +1,5 @@
 {
-  "generated-from": "dfe36f5e3330224863f458297f7b2967647ebe0b",
+  "generated-from": "2b2d0beafacea87fd9bd23c46cc015f36af37abc",
   "hosts": [
     "claude-code",
     "codex"
@@ -71,18 +71,19 @@
     "nexpulse/ongoing/skills/nexpulse-author-skill-template-file/rules/markdown-format-and-placeholders.md": "e39cfb92aaf36714c2e045e2b0c99edd1438a757da9e64d99cece2a3622d904c",
     "nexpulse/ongoing/skills/nexpulse-author-skill-template-file/rules/template-ownership-and-authority.md": "7c1d7fdcfda41c167d68f1ed381b725d23d4030b44c5578a0c6ce93c12b864d0",
     "nexpulse/ongoing/skills/nexpulse-author-skill-template-file/rules/template-review-and-validation.md": "a4bcfc8580bdf01da24e7e78eb3e4173fbd211b9b7c256b03b06ae406ea13e85",
-    "nexpulse/ongoing/skills/nexpulse-decision-records/BODY.md": "451d1f67078baf4761b5a7058e296153b2cee6dc30e17df2ad90e703e68596e5",
-    "nexpulse/ongoing/skills/nexpulse-decision-records/FRONTMATTER.yaml": "56a7edaf558ece70eee837ca02f499d01f8e93da9addd4688f231b47a412b20e",
+    "nexpulse/ongoing/skills/nexpulse-decision-records/BODY.md": "8b3ed372ac8b2a64c21e91065d6c88e4140b2e346b13c1dfe40275edcd30d610",
+    "nexpulse/ongoing/skills/nexpulse-decision-records/FRONTMATTER.yaml": "96c419341ab821cbe62606dccef7fc33a489133c658879d97bc64b617ff82b80",
     "nexpulse/ongoing/skills/nexpulse-decision-records/references/git-history-lookup.md": "ff28f7dc7cc45e8ea1e991f3b52df4e1c47c8eaf19ba468dc29d1abe977faeba",
-    "nexpulse/ongoing/skills/nexpulse-decision-records/rules/adr-format-and-status.md": "4d8c7d6baf74be8a2a991ddc4cb2f60fa7c030836325ea3fb70682424407fc29",
+    "nexpulse/ongoing/skills/nexpulse-decision-records/rules/adr-format-and-status.md": "4c11a693101959b1846c82f1077f15fcdb2188e873496ae1ed8c27658952fdf8",
     "nexpulse/ongoing/skills/nexpulse-decision-records/rules/authoring-reconciliation.md": "aeb49ffcd3f011cfdc21660b5f1d30061ade2d0168175cd2fc8993e807541e71",
-    "nexpulse/ongoing/skills/nexpulse-decision-records/rules/compilation.md": "8850955cfde202a42beafa1029ec5d1c89d4cab9c41bb11a0c93149248033b3b",
+    "nexpulse/ongoing/skills/nexpulse-decision-records/rules/compilation.md": "a96730e3bf32ce78921a31707be3daef0bb7844497dca7905e20727b0d3d86ff",
+    "nexpulse/ongoing/skills/nexpulse-decision-records/rules/merged-adr-corrections.md": "ee9c8c9f38110bb904fed9f645994171dcebd436dc7be17158f3b5b2efcc668b",
     "nexpulse/ongoing/skills/nexpulse-decision-records/rules/reading-and-lookup.md": "0fd55785c660b7f7d54d278826be4c4a21cfcc3412b81e365662ea95611270e9",
-    "nexpulse/ongoing/skills/nexpulse-decision-records/rules/removal-from-tree.md": "e5d0621b9f659200856b6c06af61c23d6d881f2a0b6307b8d474b48837134591",
-    "nexpulse/ongoing/skills/nexpulse-decision-records/rules/supersession.md": "3074bb5d2537503fe28d505ec7c761c4d3f76b99e3f2925d6c5896e36c0e2da5",
-    "nexpulse/ongoing/skills/nexpulse-decision-records/scripts/decision_records/MAPPING.md": "a92b1bd3c9323c42d37e4472223f8bf6383d700d15818b423d23e1640187a3fc",
-    "nexpulse/ongoing/skills/nexpulse-decision-records/scripts/decision_records/README.md": "55f19fa1b58647cbcf58efb4ef7f8b89a3eb20ecf8a6306f982cab6fedd0e8b6",
-    "nexpulse/ongoing/skills/nexpulse-decision-records/scripts/decision_records/decision_records.py": "9086e929402cf0a4de349069eac4df40d9a4ff1974abc4465cc5aa35641107d0",
+    "nexpulse/ongoing/skills/nexpulse-decision-records/rules/removal-from-tree.md": "0027eff49623cb180fbad0a756c69ef0b6ab070a0980ce94c15f536a11ad9dc2",
+    "nexpulse/ongoing/skills/nexpulse-decision-records/rules/supersession.md": "067324357f0f0c3188f83b093f40a7f85cf4ed09692b6ec9a76febe183b0e4b6",
+    "nexpulse/ongoing/skills/nexpulse-decision-records/scripts/decision_records/MAPPING.md": "4e25836e9b57c824ee9c0c47f096cbebe58108dd1f35139b770f2739197e3c1a",
+    "nexpulse/ongoing/skills/nexpulse-decision-records/scripts/decision_records/README.md": "4971eeb3d3dc3c006611b894c0c4df4bd9685a34726af3c1fdce5e1f8c4447c5",
+    "nexpulse/ongoing/skills/nexpulse-decision-records/scripts/decision_records/decision_records.py": "e6aa478a7eb2d14e234b81aa0b5b92f77748eab742d5dc0a1cc36c8988b2e309",
     "nexpulse/ongoing/skills/nexpulse-decision-records/scripts/decision_records/decision_records.py.lock": "1d7708fe08a3b5e41630535257d4afcddb60e5aef2302047f16d33bd27846a90",
     "nexpulse/ongoing/skills/nexpulse-decision-records/templates/adr-checklist.md": "9244856d20d4e3683254b234d6e0188d0e7a69308c78f00a1db2a3fcee52fa4d",
     "nexpulse/ongoing/skills/nexpulse-decision-records/templates/adr.example.md": "c9591135e38c7a610fcfe5a3129b93348042d416106f10b2cf67e0215713b782",
@@ -176,8 +177,8 @@
     ".agents/skills/nexpulse-author-skill-sop/agents/openai.yaml": "5348693f8ccdf711b37b552ee223237f4208f36f5296f0f4e6cfc0d03ded48b9",
     ".agents/skills/nexpulse-author-skill-template-file/SKILL.md": "70eaa2eb64b1f5933bed3f97fc78277dde632ac4ac57f8838cac4c8a6e9e9c83",
     ".agents/skills/nexpulse-author-skill-template-file/agents/openai.yaml": "589a0d48bdc23674db32b1e15ec5017989237d79ad817922374315440839d31f",
-    ".agents/skills/nexpulse-decision-records/SKILL.md": "ea49998d83b92d55772ce0d8528d6f3d5c07fbb4aa9e27f89be0b21ef31744c8",
-    ".agents/skills/nexpulse-decision-records/agents/openai.yaml": "85c4cd3108a84f4dccee8ec66e36a00d62ed031a6ab395cc8741b22cf02bc589",
+    ".agents/skills/nexpulse-decision-records/SKILL.md": "2e6e26c7721e2b3a3c073bca9edc29b01025beb669b47803432e6ed6998fd0df",
+    ".agents/skills/nexpulse-decision-records/agents/openai.yaml": "632bbc12570178a45c11cace44534223ff5af71aca2a6022548c220ee0d8fc0c",
     ".agents/skills/nexpulse-discovery-engine/SKILL.md": "2fdf8d5daad4c566a35924e21fdc63095eeb1ea387dc600dc661b4180eba5d9f",
     ".agents/skills/nexpulse-discovery-engine/agents/openai.yaml": "786c9d5c558e171d3321aa548015918a724e475ba3165ac4d82281b077f76329",
     ".agents/skills/nexpulse-extract-shared-rules/SKILL.md": "83e2ecfb37871652c548749273b208f6b6b6afa067393c667a1335807896f6bc",
@@ -196,7 +197,7 @@
     ".claude/skills/nexpulse-author-skill-script/SKILL.md": "b8c84d2dc05c8ddab3a350f87eaf7704788730fdc62ed4093eefcc0e9656e9ff",
     ".claude/skills/nexpulse-author-skill-sop/SKILL.md": "10ee98cd93e4cfc44c0f6f6bd7034e4bf8b1f2cad81641556eda1dbba75bedac",
     ".claude/skills/nexpulse-author-skill-template-file/SKILL.md": "70eaa2eb64b1f5933bed3f97fc78277dde632ac4ac57f8838cac4c8a6e9e9c83",
-    ".claude/skills/nexpulse-decision-records/SKILL.md": "ea49998d83b92d55772ce0d8528d6f3d5c07fbb4aa9e27f89be0b21ef31744c8",
+    ".claude/skills/nexpulse-decision-records/SKILL.md": "2e6e26c7721e2b3a3c073bca9edc29b01025beb669b47803432e6ed6998fd0df",
     ".claude/skills/nexpulse-discovery-engine/SKILL.md": "2fdf8d5daad4c566a35924e21fdc63095eeb1ea387dc600dc661b4180eba5d9f",
     ".claude/skills/nexpulse-extract-shared-rules/SKILL.md": "83e2ecfb37871652c548749273b208f6b6b6afa067393c667a1335807896f6bc",
     ".claude/skills/nexpulse-rca/SKILL.md": "21bb2b83dc16bf8e3223405b1fd153642e1aad553a8c03c5dec6049b3ba8468d",
@@ -795,15 +796,15 @@
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-decision-records/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-decision-records/scripts/decision_records/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-decision-records/BODY.md",
       "to": "nexpulse/ongoing/skills/nexpulse-decision-records/templates/adr.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-decision-records/BODY.md",
       "to": "nexpulse/ongoing/skills/nexpulse-decision-records/templates/adr-checklist.md"
-    },
-    {
-      "from": "nexpulse/ongoing/skills/nexpulse-decision-records/BODY.md",
-      "to": "nexpulse/ongoing/skills/nexpulse-decision-records/scripts/decision_records/README.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-decision-records/BODY.md",
@@ -815,7 +816,15 @@
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-decision-records/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/merged-adr-corrections.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-decision-records/BODY.md",
       "to": "nexpulse/ongoing/skills/nexpulse-decision-records/references/git-history-lookup.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-decision-records/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/merged-adr-corrections.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-decision-records/BODY.md",
@@ -858,6 +867,18 @@
       "to": "nexpulse/ongoing/skills/nexpulse-decision-records/scripts/decision_records/README.md"
     },
     {
+      "from": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/merged-adr-corrections.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/supersession.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/merged-adr-corrections.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/adr-format-and-status.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/merged-adr-corrections.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/removal-from-tree.md"
+    },
+    {
       "from": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/reading-and-lookup.md",
       "to": "nexpulse/ongoing/skills/nexpulse-decision-records/references/git-history-lookup.md"
     },
@@ -866,12 +887,20 @@
       "to": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/adr-format-and-status.md"
     },
     {
+      "from": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/removal-from-tree.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/compilation.md"
+    },
+    {
       "from": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/supersession.md",
       "to": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/adr-format-and-status.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/supersession.md",
       "to": "nexpulse/ongoing/skills/nexpulse-decision-records/templates/adr-checklist.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/supersession.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-decision-records/scripts/decision_records/README.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md",
@@ -1598,7 +1627,7 @@
       "to": "nexpulse/ongoing/skills/nexpulse-rca/rules/evidence-and-causality.md"
     }
   ],
-  "revision": "dfe36f5e3330224863f458297f7b2967647ebe0b",
+  "revision": "2b2d0beafacea87fd9bd23c46cc015f36af37abc",
   "schema-version": 1,
   "skills": [
     "nexpulse-author-skill-frontmatter",

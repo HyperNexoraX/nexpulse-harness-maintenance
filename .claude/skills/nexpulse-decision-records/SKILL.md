@@ -1,7 +1,7 @@
 ---
 name: nexpulse-decision-records
 description: >-
-  將 discovery session 的決策彙整成 session 外的 ADR 並維護其狀態，處理決策被取代，並在結案後將 session 移出 tree。Use when discovery session 的 specification 已由 Human 確認而要彙整 ADR、authoring 完成後要補正 ADR 與清單檔、既有 ADR 的決策被新決策取代、已結案的 session 要移出 tree，或要查找已移出 tree 的決策原文。SKIP when 主要需求是進行 discovery、author Skill 的各部位、檢查產出與決策是否矛盾，或修改沒有對應的 discovery session。
+  將 discovery session 的決策彙整成 session 外的 ADR 並維護其狀態，包括決策被取代、已合併 ADR 的更正與後續更新，以及結案後將 session 移出 tree。Use when specification 已由 Human 確認而要彙整 ADR 或在 authoring 後補正、ADR 的決策被取代、已合併 ADR 寫錯、漏列或因之後的修改過時，或要將已結案的 session 移出 tree、查找已移出的決策原文。SKIP when 主要需求是進行 discovery、author Skill 的各部位、檢查產出與決策是否矛盾，或沒有對應的 discovery session 而要彙整、補正 ADR 或移出 tree。
 ---
 
 <!-- nexpulse:logical-body=linked entity="vendor/nexpulse-harness/nexpulse/ongoing/skills/nexpulse-decision-records/" body="vendor/nexpulse-harness/nexpulse/ongoing/skills/nexpulse-decision-records/BODY.md" -->
