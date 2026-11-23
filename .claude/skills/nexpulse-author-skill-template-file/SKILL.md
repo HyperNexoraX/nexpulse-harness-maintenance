@@ -1,7 +1,7 @@
 ---
 name: nexpulse-author-skill-template-file
 description: >-
-  建立、修改並核對 Nexpulse Skill 的 Markdown TemplateFile，管理固定格式與填寫位置。Use when 使用者要求建立、修改或同步 Skill 使用的 Markdown 範本，或將既有 Rules 的格式描述抽成 TemplateFile。SKIP when 只需依既有範本產生單次成品，或主要需求是修改 Rules 語意、SOP 流程、程式模板引擎或 binary assets。
+  建立、修改並核對 Nexpulse Skill 的 TemplateFile，管理固定格式與填寫位置。Use when 使用者要求建立、修改或同步 Skill 使用的 Markdown 範本或結構化文件的原生格式範本，或將既有 Rules 的格式描述抽成 TemplateFile。SKIP when 只需依既有範本產生單次成品，或主要需求是修改 Rules 語意、SOP 流程、程式模板引擎或 binary assets。
 ---
 
 <!-- nexpulse:logical-body=linked entity="vendor/nexpulse-harness/nexpulse/ongoing/skills/nexpulse-author-skill-template-file/" body="vendor/nexpulse-harness/nexpulse/ongoing/skills/nexpulse-author-skill-template-file/BODY.md" -->
