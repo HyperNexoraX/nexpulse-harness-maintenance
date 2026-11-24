@@ -1,5 +1,5 @@
 {
-  "generated-from": "e223d078668f6f7e5ef4b814d41173ce1ded3a86",
+  "generated-from": "b5a649ef5aa20c7cc15687be4260c7cc35e60431",
   "hosts": [
     "claude-code",
     "codex"
@@ -34,7 +34,7 @@
     "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/scripts/frontmatter/resources/unicode-emoji-ranges.json": "f1dd9ba6863691baf34208064b09d42bff77c2dbb878c957a6636f4c70f790f2",
     "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/scripts/kit/MAPPING.md": "dea4186441db5da0dce475f8948f49e4b8f743a930d16b7fbee2fa01f62d0d22",
     "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/scripts/kit/README.md": "ae0b7e956c444549d227fbefb57c957487571c07dced5a8dea9a1362c7db5fce",
-    "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/scripts/kit/kit.py": "ce1a02d4b8e7989f05af5844bfb91a1c7620252e40827a63ebe89df491a360fd",
+    "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/scripts/kit/kit.py": "fef73cb8a1d5cf22c754c066e0342fbaf2eb05b1bf74b3fb102875520d67c403",
     "nexpulse/ongoing/skills/nexpulse-author-skill-frontmatter/scripts/kit/kit.py.lock": "1d7708fe08a3b5e41630535257d4afcddb60e5aef2302047f16d33bd27846a90",
     "nexpulse/ongoing/skills/nexpulse-author-skill-purpose/BODY.md": "060da26a0d51fc25f4c813bd9f318bf8cf2d6db6e2efa7852ac37a38be98ad8c",
     "nexpulse/ongoing/skills/nexpulse-author-skill-purpose/FRONTMATTER.yaml": "f20f530ea8eabedff55e9fcf1aeb4bcb3293ae1ed9fd1370ed6c6f954983f2cf",
@@ -529,10 +529,6 @@
     {
       "from": "nexpulse/ongoing/skills/nexpulse-author-skill-rules/rules/semantic-review.md",
       "to": "nexpulse/ongoing/rules/collaborative-authoring/writing-and-completion.md"
-    },
-    {
-      "from": "nexpulse/ongoing/skills/nexpulse-author-skill-rules/scripts/rules/README.md",
-      "to": "nexpulse/ongoing/skills/nexpulse-author-skill-rules/scripts/rules/MAPPING.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-author-skill-script/BODY.md",
@@ -1743,7 +1739,7 @@
       "to": "nexpulse/ongoing/skills/nexpulse-rca/rules/evidence-and-causality.md"
     }
   ],
-  "revision": "e223d078668f6f7e5ef4b814d41173ce1ded3a86",
+  "revision": "b5a649ef5aa20c7cc15687be4260c7cc35e60431",
   "schema-version": 1,
   "skills": [
     "nexpulse-author-skill-frontmatter",
