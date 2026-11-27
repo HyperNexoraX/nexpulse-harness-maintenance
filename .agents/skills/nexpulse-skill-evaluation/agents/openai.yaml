@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nexpulse Skill Evaluation"
+  short_description: "以抽樣評估量測 Nexpulse Skill 的行為：在評估情境中多次執行受測者、由不同 Host 的 judge 依判準評分…"
+  default_prompt: "使用 $nexpulse-skill-evaluation 處理這項需求。"
