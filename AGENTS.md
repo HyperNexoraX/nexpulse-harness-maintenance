@@ -17,3 +17,4 @@
 - 正式 kit commit 一起 stage config、manifest、gitlink、managed changed paths 與必要 attributes，取得 `status --check-index --verify-available` 的 SYNCED。
 - Actual Host discovery、model adherence、Git／CLI 結果分別報告；生成入口不代表 Host 已實測。
 - Source 的 `reports/**` 與 `.inspiration/**` 不預讀、不作 current contract；只有使用者明確指定歷史範圍才讀取。
+- Source 的行為評估執行結果（`develop/*/evaluation/runs/`、`evaluation/review/`、`evaluation/samples/`）和 `reports/**` 同一類，不預讀、不搜尋、不作 current contract 或撰寫 Skill 的參考；只有審查該次結果、標註與 `nexpulse-skill-evaluation` 的回歸需要時，才讀取直接相關的檔案。

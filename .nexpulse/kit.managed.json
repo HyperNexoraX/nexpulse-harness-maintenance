@@ -1,5 +1,5 @@
 {
-  "generated-from": "e1e95a4f48ca91984488f3f85ea17d250eb147e4",
+  "generated-from": "6143879ee08cefd0c255ab81233acf4f1224585a",
   "hosts": [
     "claude-code",
     "codex"
@@ -59,9 +59,9 @@
     "nexpulse/ongoing/skills/nexpulse-author-skill-script/BODY.md": "4a7c5cb1fc58f16370d998c2fa570541ca122c54176b3d67fe5b8c3a208468c4",
     "nexpulse/ongoing/skills/nexpulse-author-skill-script/FRONTMATTER.yaml": "c2001ceb8c641d5a03644a9962e1705a1b87cf360ed71f1904cdcd77cbc3b68a",
     "nexpulse/ongoing/skills/nexpulse-author-skill-script/references/python-and-test-commands.md": "c415b85fc2c4ce7e806f75260273cc3d1c716710945e4f424cdc6f603249a7f1",
-    "nexpulse/ongoing/skills/nexpulse-author-skill-script/references/script-layout.md": "d8bdbe3dffa11f836947153eb0ce51b9c19e1c015c635d48e7ee8322d9971a3f",
+    "nexpulse/ongoing/skills/nexpulse-author-skill-script/references/script-layout.md": "dce7808f4f438558132aa754dc4c30f1a4b3cda68706e359b2ce38c88f7a7004",
     "nexpulse/ongoing/skills/nexpulse-author-skill-script/rules/automation-boundary.md": "3242c3ad6e84da71bde512b4fbe6ff556a246b1a3fd611d0cf4c44a4772a9fff",
-    "nexpulse/ongoing/skills/nexpulse-author-skill-script/rules/directory-and-resource-ownership.md": "82306eaa25bf3b8e8f6ad7c22603de8e306624bd658c7f4b4300bb129338d9e0",
+    "nexpulse/ongoing/skills/nexpulse-author-skill-script/rules/directory-and-resource-ownership.md": "017e5738987b53860552da1c401d1ba2cef9f5e36bd776bcef0c0d81d1d8f37f",
     "nexpulse/ongoing/skills/nexpulse-author-skill-script/rules/python-and-cli-contract.md": "fdbf57dd34cadaf7ae43d667746f6183ab9bf55f2f6c6b668836c47c3189d72e",
     "nexpulse/ongoing/skills/nexpulse-author-skill-script/rules/testing-and-evidence.md": "90da2193184d1e7928412f1fa18ff07fea5aa843bf6570b95b4a336e71f95b62",
     "nexpulse/ongoing/skills/nexpulse-author-skill-script/templates/script-mapping.md": "13f4b83c55d9e1bb572777e2c12264bbf3abf6b9216a182bdbf305ffa6a60695",
@@ -81,7 +81,7 @@
     "nexpulse/ongoing/skills/nexpulse-decision-records/BODY.md": "8bef394f3de9a448de2ab7b2053d5ea5cd5b266f6869f15d995ba56c22cc4c21",
     "nexpulse/ongoing/skills/nexpulse-decision-records/FRONTMATTER.yaml": "96c419341ab821cbe62606dccef7fc33a489133c658879d97bc64b617ff82b80",
     "nexpulse/ongoing/skills/nexpulse-decision-records/references/git-history-lookup.md": "28fcb23cda91cdbbbd6890c4fbf0bbfff17e807c2ba176bd201cfbc681168d18",
-    "nexpulse/ongoing/skills/nexpulse-decision-records/rules/adr-format-and-status.md": "4c11a693101959b1846c82f1077f15fcdb2188e873496ae1ed8c27658952fdf8",
+    "nexpulse/ongoing/skills/nexpulse-decision-records/rules/adr-format-and-status.md": "710109abaa5ad818d512619633366e4f71207fe4a16749e7d98f8ba4029d1bac",
     "nexpulse/ongoing/skills/nexpulse-decision-records/rules/authoring-reconciliation.md": "66b2fa372dc4a144de9b526c5a4852675dbb01cd008a011c342e6063cb47fac3",
     "nexpulse/ongoing/skills/nexpulse-decision-records/rules/compilation.md": "b51866a2497c3668c1f695cbd7eeaf5e18343ca106ea2a406893dae2efbdc29b",
     "nexpulse/ongoing/skills/nexpulse-decision-records/rules/merged-adr-corrections.md": "9c63115f14da596071b5d5578262d7fbf536c99a539976184147643f9c2c4495",
@@ -97,7 +97,7 @@
     "nexpulse/ongoing/skills/nexpulse-decision-records/templates/adr.md": "8e085fd483ae415ba32f8e101541a2e2c855e06e88504b5b474f15e368df27f3",
     "nexpulse/ongoing/skills/nexpulse-discovery-engine/BODY.md": "ae9de03db588f25e1bb2e1699c91051419a6f1fa522e22be2dd55d5435e9cbb3",
     "nexpulse/ongoing/skills/nexpulse-discovery-engine/FRONTMATTER.yaml": "fa768405c020844fe67e50b1aa9fa29b5b8460ba3551d9376365307150e5c255",
-    "nexpulse/ongoing/skills/nexpulse-discovery-engine/profiles/skill.md": "62ddcafea7ff24dc5b5f68961f1301f5857311f966f5db4ff7298abf343a55bf",
+    "nexpulse/ongoing/skills/nexpulse-discovery-engine/profiles/skill.md": "e37349895ba85a2729faac1a25e627c061f62a051c6706be8aea6e14fd53a4e2",
     "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/phases/exploration.md": "50f0c3fb46a2dc570b7ea2f6c15bbf5fde674ab5b00fb1a214102cddcb1418f5",
     "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/phases/questioning.md": "36cdfe4ad104aa76549965717781f0109be616767db8a42bb3a2284427069064",
     "nexpulse/ongoing/skills/nexpulse-discovery-engine/rules/phases/review-and-completion.md": "18259725590d9d6039a045cf80060a8cbaa6f140b049c733b9e825fd1ecc74a3",
@@ -127,34 +127,54 @@
     "nexpulse/ongoing/skills/nexpulse-extract-shared-rules/rules/consumer-migration-and-verification.md": "a06b7748bd5eac8f47386cf69669c0136bb7d0e90210911fe7e945a892bf0d2d",
     "nexpulse/ongoing/skills/nexpulse-extract-shared-rules/rules/extraction-scope-and-ownership.md": "93d36d85791a15f174a396c7a8a20b6b181486069d78ac0f4655579b9c6e2f47",
     "nexpulse/ongoing/skills/nexpulse-extract-shared-rules/rules/sharing-eligibility.md": "3917976826a7772e0de88beb580c63948f10085e00a73c576762502a0214819f",
-    "nexpulse/ongoing/skills/nexpulse-rca/BODY.md": "ce279281afde21e55e43f52f0503256dd1775e263695f5a59c8fb51f4039cfba",
+    "nexpulse/ongoing/skills/nexpulse-rca/BODY.md": "58cb173dfc01b9491003aa40aeb707cba0c16c169749f91cce0708145c70f322",
     "nexpulse/ongoing/skills/nexpulse-rca/FRONTMATTER.yaml": "ec12a2f15079438478a5d1fbdc7993a7e70a5bb5faf4bfbc0cd9545801073199",
     "nexpulse/ongoing/skills/nexpulse-rca/rules/analysis-by-kind.md": "f12a65bfff2ead314ffcb9fb8d1094404aeb625e59f562b0e5b7d343713cd121",
     "nexpulse/ongoing/skills/nexpulse-rca/rules/case-record.md": "4819c861cbf42bbbc86376b7210aebc04f748e1f89f96fb12f02b29789e97aae",
     "nexpulse/ongoing/skills/nexpulse-rca/rules/evidence-and-causality.md": "d20b1b55b6664564910dcbd431889d467a44f4cc5d507b0cc5624075464460a5",
     "nexpulse/ongoing/skills/nexpulse-rca/rules/issue-entry.md": "8158e83d76db48a0b4ef319dc6bad72e4efe901e0d0c8bbecd57723c962fce4e",
-    "nexpulse/ongoing/skills/nexpulse-rca/rules/issue-writeback.md": "5678423e1b42de9959a5ad012a062209dd9d68c1d59592e471722a0dd05ee351",
-    "nexpulse/ongoing/skills/nexpulse-rca/rules/root-cause-correction.md": "0e3154cb7b01a6f3590574358776ceb8d2631ce1390f59a0ef0af0c0619d174e",
-    "nexpulse/ongoing/skills/nexpulse-rca/templates/issue-comment.md": "7da53a9f3bac31fd588ab7380a2698076cd23e4ce49a30f06c209ee3adb149e9",
+    "nexpulse/ongoing/skills/nexpulse-rca/rules/issue-writeback.md": "a5e37c0921c4076b9418723330d814aa37ea1469d844748a0f103c747650422a",
+    "nexpulse/ongoing/skills/nexpulse-rca/rules/root-cause-correction.md": "a2f2a4abaa21f2145712f205db1c5cfc88321346a2f9311451a76027bcf2793d",
+    "nexpulse/ongoing/skills/nexpulse-rca/templates/issue-comment.md": "51f4977e426bafa67aad37c251c58aef059de41b06bb4b5c6ecb797b1a829ed7",
     "nexpulse/ongoing/skills/nexpulse-rca/templates/rca-case.md": "c2a32b8ca5716ef3bea56b4815a63651b3367486a035b50520f22f599442aec7",
-    "nexpulse/ongoing/skills/nexpulse-skill-engineering/BODY.md": "c5c1c2ce907b5ebabaff79e5b223f35dd2e79c9365fc0a764b6199d71825bf49",
+    "nexpulse/ongoing/skills/nexpulse-skill-engineering/BODY.md": "c45b10cfd9952149c31120b7db9fc2f1beb754e1152680c7572b3775eb9fcf75",
     "nexpulse/ongoing/skills/nexpulse-skill-engineering/FRONTMATTER.yaml": "8b0e74ca748e8d04fa4590a3dc0f0e9043cbb80826f504823f38b0e4244eb77e",
     "nexpulse/ongoing/skills/nexpulse-skill-engineering/references/git-github-collaboration.md": "27bf0d505ec8725fa9b0fa32b74355b83cf3feaec1b04ef3aa32e2f4ee586452",
     "nexpulse/ongoing/skills/nexpulse-skill-engineering/references/skill-collaboration.md": "1598cbea4ee16127e133cd464f7d57790b24a1d1e62c93ae41d8b571cc779577",
     "nexpulse/ongoing/skills/nexpulse-skill-engineering/rules/authoring-coordination.md": "654d9bc9500043082df6a88e742fb47c1d0e9e18c6ae24f7ad71e2576c6041a1",
     "nexpulse/ongoing/skills/nexpulse-skill-engineering/rules/entry-handoff.md": "3f7a45d090280b0fe421a93d9a9a8d8298d5a7cf33ac288634ea7ed24755f892",
-    "nexpulse/ongoing/skills/nexpulse-skill-engineering/rules/specification-route.md": "93ae8623fc2e4f2de4e80e1ac9554c8a8762cdf031620826f0d849c5517c6542",
+    "nexpulse/ongoing/skills/nexpulse-skill-engineering/rules/specification-route.md": "b806cafc59b0fc5e9b24dda233a2fe1622c251d730d388dcefd713e7c31f00ae",
     "nexpulse/ongoing/skills/nexpulse-skill-engineering/templates/skill-change.md": "3e3dca706db6e49617acc10ebb436858f7a0251013fed034d825b1c54d049c6e",
     "nexpulse/ongoing/skills/nexpulse-skill-engineering/templates/skill-integration.md": "00ce67797c00bb741a8b09be3b7288df0bc67f4b08eeb7c220f11a461dcae852",
-    "nexpulse/ongoing/skills/nexpulse-skill-verification/BODY.md": "5361fe5cea293130b8176d65403b43bb991063cfcfd1d4851af81ba29f37f736",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md": "c4a8a99ab77fa38cafddc762f3379efafeb57c803eea2fd12bc6db20e80fa04d",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/FRONTMATTER.yaml": "a4e252e81e671a1240b989d0c21d489f623fca9c65e520980daed0378e260b54",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/references/configuration-evidence.md": "7ce6b6e1f4d18a3b30562e01d162ef3748d5337a86c64d835f05dc836cb13038",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/references/configuration.yaml": "7f5d74d6ab42c831759fe05c0b936387410f873450cf73a5ea2830b26a7a8b44",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/configuration.md": "168a2d76049fa8afa0446f2399b2f6bcddafe29400daf2aede7615089d33b1f8",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/cost-and-execution.md": "a999a2a70d5b551f4609c7ce32abd3e82d88cffe196dd760c7480e3e983743fa",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/existing-unverified-items.md": "15cfc88b9efcab1f4f8ddcfe926aaa14e696e07728c4711a15ef15f96c74627f",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/expectations-and-regression.md": "1d6fb44e2a7efcc779bbbe4d59c54d994b18718914084ee8a86df7c37487cbbc",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/judge-calibration.md": "fe8cbacf5deddc5053bfcb26894f67712536d2da9531b2c9635db37cbbcbdde9",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/run-results.md": "91507f6a1c7f1452422d19aeddfd846cb4dd6f0347bc07dda50cbe00f2266184",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/scenario-authoring.md": "8c94dd9bdd4809088c327b8b859c0c5b0f0831daf07e9d7355831a6ecb9a2fe0",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/MAPPING.md": "19ded68b2ecc5626b4baa9cf4e508ec942282a889611fedf84a9782ae2eb4517",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md": "b9ad6b597a899419e8b871301f8119c5c4efab0ced3341337a7c3eab9a60bcbe",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/eval_runner.py": "513a526e5c0034520028b3775c8cdd681b25ecc1fd41684581430d1c72d3831b",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/eval_runner.py.lock": "7ff9a487005ebc5bc275ba9dc18f74227bd5a1b785bf4dad1ea34486d22c7474",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/resources/judge-schema.json": "c0d238cadc53d4ade32451f6136767ebe3d09a3872d508e201ddc1a33410ebf3",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/templates/calibration-labels.yaml": "02f9671355ce3fc1438cf4a2922f34dcccede23dee00398c30672fd60c7bf42e",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/templates/disagreements.yaml": "8fc49f2eccc42114d968543cac1f2df3f246a770326fb088e9f15e8baec409e0",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/templates/evaluation-plan.yaml": "f55e9de87c08dcb7948dcdc7be37dca9c1df436bfa44055bdd211b3ec9fbcb53",
+    "nexpulse/ongoing/skills/nexpulse-skill-evaluation/templates/evaluation-scenario.yaml": "7f3455cc1e922cdeba545b4fd52e8b11ad56bfa2951926b8381af4e23ddc77ad",
+    "nexpulse/ongoing/skills/nexpulse-skill-verification/BODY.md": "f4e69eb03c1b19a7269f49a5b879263ee2880c976d0d09f9371b5f89fb93dc8a",
     "nexpulse/ongoing/skills/nexpulse-skill-verification/FRONTMATTER.yaml": "b44e50bcf593bfb6e1dfdb67d223b5df0d6be2409d98ef849903927f489fb228",
     "nexpulse/ongoing/skills/nexpulse-skill-verification/rules/conflict-resolution.md": "2951e862d1297fa05bb54db00bc05e532c82221f6dd9b730b6fd26999985286d",
     "nexpulse/ongoing/skills/nexpulse-skill-verification/rules/independent-check-dispatch.md": "f1343f8eb7a888430a8ee2da459ce7b7453bcbaab9209cc3014c5319af1f1272",
-    "nexpulse/ongoing/skills/nexpulse-skill-verification/rules/independent-check-execution.md": "f89afdf77b4cfb4c2dad409e96a2147763e4a27fcb2c5c07c6b45074591fe328",
-    "nexpulse/ongoing/skills/nexpulse-skill-verification/rules/verification-report.md": "e8aee877a14226931f4575db3a400ec779b1531f6f103d749d319aedffb48320",
+    "nexpulse/ongoing/skills/nexpulse-skill-verification/rules/independent-check-execution.md": "e6ffcf1c26a15c15cd32c707b0f84d8c6c41623656a9443a6d919fcaa8781eef",
+    "nexpulse/ongoing/skills/nexpulse-skill-verification/rules/verification-report.md": "b3821d61b3ebad3f3125533241b8bc480331620f43ead62ab2bd44851ae5e4d6",
     "nexpulse/ongoing/skills/nexpulse-skill-verification/templates/independent-check-request.md": "945db0acda322a780af597d5df91bf3acd410256ddf221e5c050fb72e5f23519",
     "nexpulse/ongoing/skills/nexpulse-skill-verification/templates/independent-check-result.md": "df94888d8a083accd00acdb3aafbb21a8373225cdbb77cb94d53c72a43d9b76d",
-    "nexpulse/ongoing/skills/nexpulse-skill-verification/templates/verification.md": "b4b4d16b4dbae398ca36f0ae64a60b659c4ab3f89bbca95e8aa83ac85eb1c6d4",
+    "nexpulse/ongoing/skills/nexpulse-skill-verification/templates/verification.md": "c4364b373e3281a858913edd228dd6c18de83f5bb6db3bd736813973c34e35ae",
     "nexpulse/ongoing/skills/nexpulse-to-issues/BODY.md": "edcab79ae1a9dfca8ae8ba0d82f99e5d9a5169a86300463bc453bd8be199ab8c",
     "nexpulse/ongoing/skills/nexpulse-to-issues/FRONTMATTER.yaml": "b25c8346a8fbb0397e45dfb80fd7f86202a0bd2a0e3a4d3495c2dccecde944d9",
     "nexpulse/ongoing/skills/nexpulse-to-issues/references/github.md": "5b36122c07f5143cca8f9314a40e7be95d34b19131956be9e7d455ba22c40696",
@@ -195,6 +215,8 @@
     ".agents/skills/nexpulse-rca/agents/openai.yaml": "5a0674594fa4ce3cfdb962f75736255bcf33549586f81a045f127e7fb7451596",
     ".agents/skills/nexpulse-skill-engineering/SKILL.md": "72c376abdfa856380dfd4bd2479527a216f98a2d12b5d578ee1b75a7689d1bba",
     ".agents/skills/nexpulse-skill-engineering/agents/openai.yaml": "b3ad028ac0703f13faa15fb37e251eb9e0ff82e317e712fce9a6a83f9aef0068",
+    ".agents/skills/nexpulse-skill-evaluation/SKILL.md": "6652bf800e50852d876a8a2a0f5c123501a27c86b8bad969d78e9a32e1e62778",
+    ".agents/skills/nexpulse-skill-evaluation/agents/openai.yaml": "d78d0fc4f1c1ccc9e1ba2f7487c8463cbd3634ee23646f429444942f26ef2826",
     ".agents/skills/nexpulse-skill-verification/SKILL.md": "226ba387ae1ddd9e7af535d0a19e3e18c3cd9f352005d67e4748befe3f43af31",
     ".agents/skills/nexpulse-skill-verification/agents/openai.yaml": "c7276de9de62f3affdac1694e80e32f69db653755494a641534b1ea43997c631",
     ".agents/skills/nexpulse-to-issues/SKILL.md": "5208e3d7ad3666a8b30251ce4d92b9f318a83eb3afcae319bba1f34a0d052dcd",
@@ -210,6 +232,7 @@
     ".claude/skills/nexpulse-extract-shared-rules/SKILL.md": "83e2ecfb37871652c548749273b208f6b6b6afa067393c667a1335807896f6bc",
     ".claude/skills/nexpulse-rca/SKILL.md": "21bb2b83dc16bf8e3223405b1fd153642e1aad553a8c03c5dec6049b3ba8468d",
     ".claude/skills/nexpulse-skill-engineering/SKILL.md": "72c376abdfa856380dfd4bd2479527a216f98a2d12b5d578ee1b75a7689d1bba",
+    ".claude/skills/nexpulse-skill-evaluation/SKILL.md": "6652bf800e50852d876a8a2a0f5c123501a27c86b8bad969d78e9a32e1e62778",
     ".claude/skills/nexpulse-skill-verification/SKILL.md": "226ba387ae1ddd9e7af535d0a19e3e18c3cd9f352005d67e4748befe3f43af31",
     ".claude/skills/nexpulse-to-issues/SKILL.md": "5208e3d7ad3666a8b30251ce4d92b9f318a83eb3afcae319bba1f34a0d052dcd"
   },
@@ -629,6 +652,10 @@
     {
       "from": "nexpulse/ongoing/skills/nexpulse-author-skill-script/rules/automation-boundary.md",
       "to": "nexpulse/ongoing/skills/nexpulse-author-skill-script/templates/script-mapping.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-author-skill-script/rules/directory-and-resource-ownership.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-author-skill-script/rules/python-and-cli-contract.md",
@@ -1316,6 +1343,10 @@
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-rca/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-rca/BODY.md",
       "to": "nexpulse/ongoing/skills/nexpulse-rca/rules/issue-writeback.md"
     },
     {
@@ -1380,11 +1411,19 @@
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-rca/rules/issue-writeback.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-rca/rules/issue-writeback.md",
       "to": "nexpulse/ongoing/rules/collaborative-authoring/git-checkpoints.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-rca/rules/root-cause-correction.md",
       "to": "nexpulse/ongoing/skills/nexpulse-rca/rules/evidence-and-causality.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-rca/rules/root-cause-correction.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-skill-engineering/BODY.md",
@@ -1504,6 +1543,14 @@
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-skill-engineering/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-engineering/rules/specification-route.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-engineering/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-engineering/BODY.md",
       "to": "nexpulse/ongoing/skills/nexpulse-skill-verification/BODY.md"
     },
     {
@@ -1587,6 +1634,166 @@
       "to": "nexpulse/ongoing/skills/nexpulse-decision-records/rules/authoring-reconciliation.md"
     },
     {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/expectations-and-regression.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/cost-and-execution.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/existing-unverified-items.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/scenario-authoring.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/templates/evaluation-scenario.yaml"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/cost-and-execution.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/judge-calibration.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/templates/calibration-labels.yaml"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/templates/evaluation-plan.yaml"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/run-results.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/configuration.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/references/configuration-evidence.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/references/configuration.yaml"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/references/configuration-evidence.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/configuration.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/configuration.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/references/configuration.yaml"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/configuration.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/references/configuration-evidence.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/cost-and-execution.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/cost-and-execution.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/run-results.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/cost-and-execution.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/cost-and-execution.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/existing-unverified-items.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/expectations-and-regression.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/existing-unverified-items.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/cost-and-execution.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/existing-unverified-items.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/run-results.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/expectations-and-regression.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/expectations-and-regression.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/templates/evaluation-plan.yaml"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/expectations-and-regression.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/cost-and-execution.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/judge-calibration.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/templates/calibration-labels.yaml"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/judge-calibration.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/templates/disagreements.yaml"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/judge-calibration.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/configuration.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/judge-calibration.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/references/configuration.yaml"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/judge-calibration.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/references/configuration-evidence.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/run-results.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/scenario-authoring.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/templates/evaluation-scenario.yaml"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/rules/scenario-authoring.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/scripts/eval_runner/README.md"
+    },
+    {
       "from": "nexpulse/ongoing/skills/nexpulse-skill-verification/BODY.md",
       "to": "nexpulse/ongoing/skills/nexpulse-skill-verification/rules/independent-check-dispatch.md"
     },
@@ -1597,6 +1804,10 @@
     {
       "from": "nexpulse/ongoing/skills/nexpulse-skill-verification/BODY.md",
       "to": "nexpulse/ongoing/skills/nexpulse-skill-verification/templates/verification.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-verification/BODY.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-skill-verification/BODY.md",
@@ -1663,12 +1874,20 @@
       "to": "nexpulse/ongoing/skills/nexpulse-author-skill-template-file/BODY.md"
     },
     {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-verification/rules/independent-check-execution.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md"
+    },
+    {
       "from": "nexpulse/ongoing/skills/nexpulse-skill-verification/rules/verification-report.md",
       "to": "nexpulse/ongoing/skills/nexpulse-skill-verification/templates/verification.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-skill-verification/rules/verification-report.md",
       "to": "nexpulse/ongoing/skills/nexpulse-skill-verification/rules/independent-check-dispatch.md"
+    },
+    {
+      "from": "nexpulse/ongoing/skills/nexpulse-skill-verification/rules/verification-report.md",
+      "to": "nexpulse/ongoing/skills/nexpulse-skill-evaluation/BODY.md"
     },
     {
       "from": "nexpulse/ongoing/skills/nexpulse-to-issues/BODY.md",
@@ -1771,7 +1990,7 @@
       "to": "nexpulse/ongoing/skills/nexpulse-rca/rules/evidence-and-causality.md"
     }
   ],
-  "revision": "e1e95a4f48ca91984488f3f85ea17d250eb147e4",
+  "revision": "6143879ee08cefd0c255ab81233acf4f1224585a",
   "schema-version": 1,
   "skills": [
     "nexpulse-author-skill-frontmatter",
@@ -1785,6 +2004,7 @@
     "nexpulse-extract-shared-rules",
     "nexpulse-rca",
     "nexpulse-skill-engineering",
+    "nexpulse-skill-evaluation",
     "nexpulse-skill-verification",
     "nexpulse-to-issues"
   ],
